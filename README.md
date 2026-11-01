@@ -10,4 +10,4 @@ Sitio web para Green Bikes, una empresa ficticia de alquiler de bicicletas en el
 https://github.com/Javirecap/ed-git-website
 
 ## Live Website
-https://tu-usuario.github.io/ed-git-website/
+https://javirecap.github.io/ed-git-website/
